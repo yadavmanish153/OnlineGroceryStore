@@ -14,7 +14,6 @@
 	<packaging>pom</packaging>
 	<name>Online Grocery Store</name>
 	<modules>
-		<module>item-service</module>
 		<module>order-service</module>
 	</modules>
 	<description>Online Grocery Store Assignment</description>
